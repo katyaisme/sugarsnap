@@ -1,0 +1,9 @@
+---
+layout: post
+subtitle: blog post
+date: 10.03.2026
+location: england
+permalink: /10032026/
+---
+
+photos from this day
