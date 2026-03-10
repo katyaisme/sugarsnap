@@ -29,7 +29,9 @@ url: https://katyaisme.github.io # the base hostname & protocol for your site, e
 #github_username:  katyaisme
 
 # Build settings
-theme: minima
+theme: main
+sass:
+  style: compressed
 plugins:
   - jekyll-feed
 
