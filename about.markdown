@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
+title: about this site
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# about this site
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+this website is made using [github pages](https://docs.github.com/en/pages) and [jekyll](https://jekyllrb.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+see the [site github repo](https://github.com/katyaisme/sugarsnap/tree/main)
 
+i am aiming to keep the site design and maintenance very minimal (effort-wise, not like minimalist style)
 
-[jekyll-organization]: https://github.com/jekyll
+# about sugarsnap
+
+this is a site for me to dump all of the photos i take on my digicam. i don't know anything about photography to be honest, or really have an interest in getting super into it, i just notice a lot of things little around me and want to capture them. i want my photo taking to remain a way to capture these moments, and not become something that gets in the way of them or makes them forced because i want good photo opportunities.
+
+# about the photos
+
+they are all taken on my ___ camera
+
+# about me
+
+if you have questions you can reach out to me at katyaisme@yahoo.com, although there is a large chance i may not see it, as this is a bit of a throwaway email address i don't use often
